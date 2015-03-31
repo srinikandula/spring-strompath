@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="getwell-java:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="getwell-2015-03-26-19-59.war">
+      <element id="artifact" artifact-name="getwell-java:war exploded" />
+    </root>
+  </artifact>
+</component>
