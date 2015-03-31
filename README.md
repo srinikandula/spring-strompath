@@ -1,6 +1,6 @@
-getwell-java
+spring-strompath
 ============
-1) git clone git@github.com:GetWellCities/getwell-java.git
+1) git clone git@github.com:srinikandula/spring-strompath.git
 
 2)import the project in to eclipse
 
@@ -32,7 +32,7 @@ Developer instructions
 
 for example: git push origin mynameDev:dev/myname/FixForSecurityIntegration
 
-4)Go to https://github.com/GetWellCities/getwell-java and create a pull request for push you just did
+4)Go to https://github.com/srinikandula/spring-strompath and create a pull request for push you just did
 
 5)Assign the pull request to a peer for code review and merge to master
 
